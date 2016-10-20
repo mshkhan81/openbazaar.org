@@ -308,21 +308,18 @@ ul li a:hover {
 .download-body {
     background: #063753;
     color: #fff;
-    overflow: hidden;
-
 }
 
 .download-holder {
-    position: absolute; 
-    transform: translateY(75%); 
+    transform: translateY(15%); 
     text-align: center;
-    width: 100%;
+    width: 420px;
     margin: auto;
 }
 
 .icon-download {
-    width:180px; 
-    height: 180px; 
+    width:140px; 
+    height: 140px; 
     margin: auto;
 }
 
